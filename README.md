@@ -25,7 +25,7 @@ A simple web application that allows users to search GitHub profiles by username
 4. View full user details instantly
 
 ## 🔗 Live Demo
-
+https://sraddha-git.github.io/Github-finder/
 
 ## 📡 API Reference
 GitHub User API:https://api.github.com/users/{username}
